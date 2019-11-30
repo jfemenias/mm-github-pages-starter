@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "easypaysy"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ep__micro_logo_blue.png"
   bio    : "easypaysy is jumpstarting now. Help us make it better!."
   links:
     - label: "Website"
