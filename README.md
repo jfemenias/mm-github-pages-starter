@@ -1,18 +1,12 @@
-# Minimal Mistakes remote theme starter
+# easypaysy website
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Forked from [Minimal Mistakes Jekyll theme] (mmistakes/mm-github-pages-starter).
 
-Contains basic configuration to get you a site with:
+easypaysy lets you
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+- Send and receive crypto payments without having to see the payment address.
+- Create accounts on the blockchain and get your own account ID.
+
 
 Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
